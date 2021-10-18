@@ -1,7 +1,7 @@
 # face-id-Siamese-NN
 Face recognitionwith a Siamese neural network.  
 
-Need create a data folder which include anchor, negative, positive folders, and unzip the lfw file move images to negative folder from download [Labeled Faces in the Wild Home](vis-www.cs.umass.edu/lfw/lfw.tgz).  
+Need create a data folder which include anchor, negative, positive folders, and unzip the lfw file move images to negative folder from download All images as gzipped tar file:[Labeled Faces in the Wild Home](http://vis-www.cs.umass.edu/lfw/#download).  
 And using **face_data_create.py** to create and collect face image dataset to anchor and positive floder
 
 * folder structure:

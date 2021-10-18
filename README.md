@@ -1,4 +1,4 @@
-# face-id-Siamese-NN
+# face-id-Siamese-NN using Tensorflow
 Face recognitionwith a Siamese neural network.  
 
 Paper: [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf).  

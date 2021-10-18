@@ -10,9 +10,9 @@ And use **face_data_create.py** to create and collect face image dataset to anch
     │
     ├── data
     │   └── anchor/*
-    |   └── negative/*
-    |   └── positive/*
-    |
+    │   └── negative/*
+    │   └── positive/*
+    │
     └── application_data
     │       ├── input_image/*   
     │       └──verification_images/*

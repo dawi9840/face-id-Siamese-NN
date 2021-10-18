@@ -9,11 +9,10 @@ And use **face_data_create.py** to create and collect face image dataset to anch
 ```bash
     │
     ├── data
-    │   └── coco_2017_dataset
-    │       ├── anchor/*
-    │       ├── negative/*
-    │       └── positive/*
-    │
+    │   └── anchor/*
+    |   └── negative/*
+    |   └── positive/*
+    |
     └── application_data
     │       ├── input_image/*   
     │       └──verification_images/*
